@@ -1,4 +1,7 @@
 package com.huaytalla.franklin.poketinder
 
-class PokemonListResponse {
-}
+data class PokemonListResponse(
+    val count: Int,
+    val next: String,
+    val results: List<PokemonResponse>
+)
