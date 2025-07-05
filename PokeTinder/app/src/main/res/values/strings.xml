@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PokeTinder</string>
+    <string name="user_email">Correo electrónico</string>
+    <string name="user_password">Contraseña</string>
+    <string name="start_session">Iniciar sesión</string>
+    <string name="register_me">Registrarme</string>
+    <string name="register">Registrar</string>
+    <string name="already_have_account">Ya tengo una cuenta</string>
+    <string name="invalid_email">Correo inválido</string>
+    <string name="password_too_short">La contraseña debe tener al menos 8 caracteres</string>
+    <string name="passwords_do_not_match">Las contraseñas no coinciden</string>
+</resources>
